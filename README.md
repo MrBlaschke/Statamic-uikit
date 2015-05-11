@@ -1,4 +1,4 @@
-# Statamic-s8 [Foundation 5](http://foundation.zurb.com/) sass blank theme for [Statamic](http://statamic.com) 
+# Statamic-s8 [uikit](http://getuikit.com/) sass blank theme for [Statamic](http://statamic.com) 
 
 This is a theme to start your own Statamic project that uses Grunt and libsass!
 need any help find me [@serieseight](http://twitter.com/serieseight).
@@ -16,11 +16,11 @@ You'll need to have the following items installed before continuing.
 
 ```bash
 cd _themes
-git clone https://github.com/serieseight/Statamic-s8.git
+git clone https://github.com/serieseight/Statamic-uikit.git
 ```
 Navigate to `_config/settings.yaml` and change line 33
 ```bash 
-_theme: statamic-s8
+_theme: statamic-uikit
 ```
 
 While you're working on your project, to watch sass files run:
@@ -32,14 +32,12 @@ And you're set!
 
 ### Directory Structure
 
-  * `scss/_settings.scss`: Foundation configuration settings go in here
-  * `scss/app.scss`: Application styles go here
+  * `scss/app.scss: Application styles go here
   * `scss/styles.scss`: Your styles go here
 
 
-### To Do
-Add Grunt UglifyJS minifying all JS
-
+### Customize
+Customize your theme with [uikit customizer](http://getuikit.com/docs/customizer.html) download the css file change it to .scss and replace your `bower_components/uikit/scss/uikit.scss`
 
 
 
