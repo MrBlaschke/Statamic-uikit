@@ -39,6 +39,10 @@ And you're set!
 ### Customize
 Customize your theme with [uikit customizer](http://getuikit.com/docs/customizer.html) download the css file change it to .scss and replace your `bower_components/uikit/scss/uikit.scss`
 
+### TO DO
+* Work on _meta include
+* Sitemap
+
 
 
 Thanks to [Statarker](http://www.statamicthemes.com/themes) as a base for this theme.
