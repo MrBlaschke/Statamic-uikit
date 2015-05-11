@@ -32,7 +32,7 @@ And you're set!
 
 ### Directory Structure
 
-  * `scss/app.scss: Application styles go here
+  * `scss/app.scss`: Application styles go here
   * `scss/styles.scss`: Your styles go here
 
 
